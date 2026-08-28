@@ -44,7 +44,7 @@ load_dotenv(
     override=False
 )
 
-token = os.getenv("NOTION_TOKEN")
+token = os.getenv("NOTION_TOKEN", "").strip()
 
 if not token:
     print("ERROR: NOTION_TOKEN was not found.")
