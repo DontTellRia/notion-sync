@@ -12,15 +12,15 @@ from notion_client import Client
 # ============================================================
 
 INCOME_DATA_SOURCE_ID = (
-    "3b55f703-3f4a-8080-a01a-000b8e4b5953"
+    "c8dbc29d-4662-83e2-bcc5-078c6cca768f"
 )
 
 EXPENSES_DATA_SOURCE_ID = (
-    "3b55f703-3f4a-80cb-ab63-000bd02357c2"
+    "413bc29d-4662-8370-bae0-87377498be94"
 )
 
 FINANCIAL_TRANSACTIONS_DATA_SOURCE_ID = (
-    "3b85f703-3f4a-809d-851d-000befb081ec"
+    "5ccbc29d-4662-83b1-b274-07583f086384"
 )
 
 
